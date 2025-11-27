@@ -1,4 +1,7 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'fr-fr'
 title = 'My New Hugo Site'
 theme = 'TofTheme'
+
+[params]
+    DateForm = '01/02/2006'

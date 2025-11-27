@@ -1,13 +1,22 @@
 body {
-  color: #222;
-  font-family: sans-serif;
+  color: #224;
+  font-family: 'Arial Narrow';
+  font-size: 18pt;
   line-height: 1.5;
   margin: 1rem;
   max-width: 768px;
 }
 
+h1 {
+    color: #155DFC;
+    font-family: Optima;
+}
+h2 {
+    color: #655DFC;
+    font-family: "Lucida";
+}
 header {
-  border-bottom: 1px solid #222;
+  border-bottom: 2px solid #175BF6;
   margin-bottom: 1rem;
 }
 
