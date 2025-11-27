@@ -3,6 +3,7 @@
   {{ .Content }}
   {{ range .Pages }}
     <section>
+        <p style="color:orange">(this is from the section layout)</p>
       <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
       {{ .Summary }}
     </section>
